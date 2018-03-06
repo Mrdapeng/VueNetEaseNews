@@ -1,21 +1,15 @@
-# 163
+# 网易新闻demo
 
 > news
+### 项目截图
+![Alt text](/screenShot/news.jpg)
 
-## Build Setup
+## 安装启动步骤
 
 ``` bash
-# install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
